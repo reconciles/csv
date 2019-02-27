@@ -1,0 +1,41 @@
+,Property,Sector,Region,Year,Capital,Income,Total
+0,Brighton,Leisure,South,2018,3,4,7
+1,Coventry,Retail,Midlands,2018,4,5,9
+2,Dublin,Industrial,Ireland,2018,6,4,10
+3,Farringdon,Office,London,2018,2,6,8
+4,Luton,Office,South,2018,3,7,10
+5,Leicester Square,Retail,London,2018,7,3,10
+6,Manchester,Retail,North,2018,4,7,11
+7,Nottingham,Leisure,Midlands,2018,1,4,5
+8,Sheffield,Industrial,North,2018,2,1,3
+9,Victoria,Office,London,2018,9,2,11
+10,Brighton,Leisure,South,2017,2.75,3.75,6.5
+11,Coventry,Retail,Midlands,2017,3.75,4.75,8.5
+12,Dublin,Industrial,Ireland,2017,5.75,3.75,9.5
+13,Farringdon,Office,London,2017,1.75,5.75,7.5
+14,Luton,Office,South,2017,2.75,6.75,9.5
+15,Leicester Square,Retail,London,2017,6.75,2.75,9.5
+16,Manchester,Retail,North,2017,3.75,6.75,10.5
+17,Nottingham,Leisure,Midlands,2017,0.75,3.75,4.5
+18,Sheffield,Industrial,North,2017,1.75,0.75,2.5
+19,Victoria,Office,London,2017,8.75,1.75,10.5
+20,Brighton,Leisure,South,2016,2.5,3.5,6
+21,Coventry,Retail,Midlands,2016,3.5,4.5,8
+22,Dublin,Industrial,Ireland,2016,5.5,3.5,9
+23,Farringdon,Office,London,2016,1.5,5.5,7
+24,Luton,Office,South,2016,2.5,6.5,9
+25,Leicester Square,Retail,London,2016,6.5,2.5,9
+26,Manchester,Retail,North,2016,3.5,6.5,10
+27,Nottingham,Leisure,Midlands,2016,0.5,3.5,4
+28,Sheffield,Industrial,North,2016,1.5,0.5,2
+29,Victoria,Office,London,2016,8.5,1.5,10
+30,Brighton,Leisure,South,2015,2.25,3.25,5.5
+31,Coventry,Retail,Midlands,2015,3.25,4.25,7.5
+32,Dublin,Industrial,Ireland,2015,5.25,3.25,8.5
+33,Farringdon,Office,London,2015,1.25,5.25,6.5
+34,Luton,Office,South,2015,2.25,6.25,8.5
+35,Leicester Square,Retail,London,2015,6.25,2.25,8.5
+36,Manchester,Retail,North,2015,3.25,6.25,9.5
+37,Nottingham,Leisure,Midlands,2015,0.25,3.25,3.5
+38,Sheffield,Industrial,North,2015,1.25,0.25,1.5
+39,Victoria,Office,London,2015,8.25,1.25,9.5
