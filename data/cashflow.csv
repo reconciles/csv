@@ -1,0 +1,23 @@
+,Category,Event,Cashflow (m),Purchases,Sales,Invest,Redeem,Utilise,Repay,Sector,Region,Valuation
+0,Brighton,Purchase,-5,-5,0,0,0,0,0,Office,South,5
+1,Coventry,Purchase,-10,-10,0,0,0,0,0,Leisure,Midlands,10
+2,Dublin,Purchase,-2.5,-2.5,0,0,0,0,0,Retail,Ireland,2.5
+3,Farringdon,Purchase,-7.5,-7.5,0,0,0,0,0,Industrial,London,7.5
+4,Luton,Purchase,-1,-1,0,0,0,0,0,Industrial,Midlands,1
+5,Leicester Square,Sale,5,0,5,0,0,0,0,Office,London,-5
+6,Manchester,Sale,1,0,1,0,0,0,0,Leisure,North,-1
+7,Nottingham,Sale,5,0,5,0,0,0,0,Retail,Midlands,-5
+8,Sheffield,Sale,7.5,0,7.5,0,0,0,0,Industrial,North,-7.5
+9,Victoria,Sale,10,0,10,0,0,0,0,Industrial,London,-10
+10,Capital,Investment,10,0,0,10,0,0,0,,,
+11,Capital,Investment,25,0,0,25,0,0,0,,,
+12,Capital,Investment,50,0,0,50,0,0,0,,,
+13,Capital,Redeem,-10,0,0,0,-10,0,0,,,
+14,Capital,Redeem,-25,0,0,0,-25,0,0,,,
+15,Capital,Redeem,-50,0,0,0,-50,0,0,,,
+10,Debt,Utilise,5,0,0,0,0,5,0,,,
+11,Debt,Utilise,25,0,0,0,0,25,0,,,
+12,Debt,Utilise,50,0,0,0,0,50,0,,,
+13,Debt,Repay,-5,0,0,0,0,0,-5,,,
+14,Debt,Repay,-25,0,0,0,0,0,-25,,,
+15,Debt,Repay,-50,0,0,0,0,0,-50,,,
